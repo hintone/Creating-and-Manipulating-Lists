@@ -1,0 +1,18 @@
+#Create the list
+pizza_toppings=["Pepperoni", "Sausage", "Bacon", "Cheese"]
+#Determine the length of list, and print the length of the list
+len(L)= print("4") 
+print(len(pizza_toppings))
+#Print each item in the list
+print(pizza_toppings)
+#Add three new items to the list and print the updated list
+pizza_toppings.append("Mushroom", "Onion", "Olive")
+print(pizza_toppings)
+#Insert a new value at a specific position in the list and print the updated list
+pizza_toppings.insert(1,"Green Peppers")
+print(pizza_toppings)
+#Remove 1 item from the list and print the updated lsit
+pizza_toppings.remove("Onion")
+print(pizza_toppings)
+#Sort the elements of the lists from high to low and print out the sorted list
+sorted.pizza_toppings=print["Bacon", "Cheese", "Green Peppers","Mushroom", "Olive", "Pepperoni", "Sausage"]
